@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ILHAM SHOP</string>
+    <string name="title">vans</string>
+    <string name="Name_product">Vans old school</string>
+    <string name="Descriptiom">You Always get the a fit</string>
+    <string name="Size">size</string>
+    <string name="Color">Color</string>
+    <string name="Price">$99.0</string>
+    <string name="Botton">ADD TO CARD</string>
+
+</resources>
